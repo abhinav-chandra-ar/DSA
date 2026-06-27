@@ -73,7 +73,6 @@ j5 3 15
 
 
 Sample Output 2
-
 3 142
 
 

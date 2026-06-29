@@ -7,7 +7,7 @@ def fib(n,dp):
     return dp[n]
 
 if __name__ == '__main__':
-    
+
     n = int(input())
     dp = [-1] * (n+1)
     print(fib(n,dp))
